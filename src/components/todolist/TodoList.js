@@ -22,7 +22,7 @@ class TodoList extends Component {
     render() {
         return (
             <div>
-                <h1>Lista de Tarefas</h1>
+                <h1>TodoList</h1>
                 <table className="table table-dark">
                     <thead>
                         <tr>
